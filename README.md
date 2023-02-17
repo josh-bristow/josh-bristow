@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @josh-bristow
 - 👀 I’m interested in coding, surfing, rugby, reading, adventure and so much more
-- 🌱 I’m currently studying for my BSc in Computer Science
+- 🌱 BSc in Computing
 - 💞️ I’m looking to collaborate on projects that I can add to my CV
 
 
